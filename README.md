@@ -36,7 +36,7 @@ cd practice2
 
 - Make sure the Snakefile is in your working directory. In this example, the Snakefile should be in the practice2 directory.
 
-- Ensure that you have downloaded the reference [sequence.fasta](https://www.ncbi.nlm.nih.gov/nuccore/KF848938.1?report=fasta). t should be in your working directory.
+- Ensure that you have downloaded the reference [sequence.fasta](https://www.ncbi.nlm.nih.gov/nuccore/KF848938.1?report=fasta). It should be in your working directory.
 
 - Ensure you have installed [VarScan.v2.3.9.jar](https://sourceforge.net/projects/varscan/files/VarScan.v2.3.9.jar/download). It should be in your working directory.
 
